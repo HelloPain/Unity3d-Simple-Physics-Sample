@@ -1,0 +1,13 @@
+*.apk
+*.csproj
+*.sln
+.vs
+.vsconfig
+*Library*
+*Logs*
+Temp
+obj
+*.mp4
+plugin-log.txt
+*.bat
+*.log
